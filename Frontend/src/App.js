@@ -19,7 +19,7 @@ import {
 import './App.css';
 
 // Configure axios defaults
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000';
+const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://me-api-playground-scuu.onrender.com';
 axios.defaults.baseURL = API_BASE_URL;
 
 function App() {
