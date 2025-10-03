@@ -1,0 +1,19 @@
+{
+  "name": "playground-backend",
+  "version": "1.0.0",
+  "main": "indexlucide-react.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bhishmesh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express-rate-limit": "^8.1.0",
+    "helmet": "^8.1.0",
+    "mongodb": "^6.20.0",
+    "mongoose": "^8.18.2"
+  }
+}
